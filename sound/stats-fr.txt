@@ -1,0 +1,71 @@
+sox Adriana.ogg -n stats
+             Overall     Left      Right
+DC offset  -0.000041 -0.000039 -0.000041
+Min level  -0.343933 -0.343933 -0.343903
+Max level   0.528107  0.528076  0.528107
+Pk lev dB      -5.55     -5.55     -5.55
+RMS lev dB    -15.63    -15.63    -15.63
+RMS Pk dB     -14.71    -14.71    -14.71
+RMS Tr dB     -19.56    -19.56    -19.56
+Crest factor       -      3.19      3.19
+Flat factor     0.00      0.00      0.00
+Pk count           2         2         2
+Bit-depth      15/16     15/16     15/16
+Num samples    37.3k
+Length s       0.845
+Scale max   1.000000
+Window s       0.050
+
+sox Jeff.ogg -n stats
+             Overall     Left      Right
+DC offset   0.000004  0.000003  0.000004
+Min level  -0.292175 -0.292175 -0.292175
+Max level   0.403503  0.403503  0.403503
+Pk lev dB      -7.88     -7.88     -7.88
+RMS lev dB    -21.70    -21.70    -21.70
+RMS Pk dB     -19.31    -19.31    -19.31
+RMS Tr dB     -27.20    -27.20    -27.20
+Crest factor       -      4.91      4.91
+Flat factor     0.00      0.00      0.00
+Pk count           2         2         2
+Bit-depth      15/16     15/16     15/16
+Num samples    31.2k
+Length s       0.708
+Scale max   1.000000
+Window s       0.050
+
+sox Celine.ogg -n stats
+             Overall     Left      Right
+DC offset  -0.000004 -0.000004 -0.000004
+Min level  -0.233948 -0.233948 -0.233948
+Max level   0.388916  0.388916  0.388794
+Pk lev dB      -8.20     -8.20     -8.21
+RMS lev dB    -20.25    -20.25    -20.25
+RMS Pk dB     -18.76    -18.76    -18.76
+RMS Tr dB     -22.42    -22.42    -22.42
+Crest factor       -      4.00      4.00
+Flat factor     0.00      0.00      0.00
+Pk count           2         2         2
+Bit-depth      14/16     14/16     14/16
+Num samples    21.4k
+Length s       0.485
+Scale max   1.000000
+Window s       0.050
+
+sox Herminio.ogg -n stats
+             Overall     Left      Right
+DC offset  -0.000004 -0.000004 -0.000003
+Min level  -0.317291 -0.317230 -0.317291
+Max level   0.356323  0.356323  0.356293
+Pk lev dB      -8.96     -8.96     -8.96
+RMS lev dB    -21.83    -21.83    -21.83
+RMS Pk dB     -18.96    -18.96    -18.96
+RMS Tr dB     -26.36    -26.36    -26.36
+Crest factor       -      4.40      4.40
+Flat factor     0.00      0.00      0.00
+Pk count           2         2         2
+Bit-depth      15/16     15/16     15/16
+Num samples    34.8k
+Length s       0.790
+Scale max   1.000000
+Window s       0.050
